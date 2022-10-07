@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
     <head>
+        <!-- Base description and title -->
         <meta charset="utf-8">
         <title>Finn McKinley</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Controls Scaling and Dimensions -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" content="">
         <meta name="description" content="">
         <meta name="author" content="Finn McKinley">
 
+        <!-- Open graph protocol stuff -->
         <meta property="og:title" content="Finn McKinley">
         <meta property="og:url" content="">
         <meta property="og:type" content="website">
         <meta property="og:description" content="Portfolio website for Finn McKinley">
 
-        <style> /* Start of Style Tag */
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+        <!-- CSS Style -->
+        <style>
             body {
                 background-color: #1c1c1c;
                 margin: 0;
@@ -24,9 +32,8 @@
                 size: 30%;
                 font-family: "Gill Sans", Verdana, sans-serif;
                 margin: 10px;
-                
             }
-        </style> <!-- End of Style Tag -->
+        </style>
         
-    </head> <!-- End of Head Tag -->
+    </head> <!-- End of head tag -->
 </html>
