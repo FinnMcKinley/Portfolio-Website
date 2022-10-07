@@ -1,0 +1,11 @@
+body {
+    background-color: #1c1c1c;
+    margin: 0;
+}
+
+h1 {
+    color: #e6cfff;
+    size: 30%;
+    font-family: "Gill Sans", Verdana, sans-serif;
+    margin: 10px;
+}
