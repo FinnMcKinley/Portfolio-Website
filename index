@@ -4,6 +4,14 @@
         <meta charset="utf-8">
         <title>Finn McKinley</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Controls Scaling and Dimensions -->
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <meta name="author" content="Finn McKinley">
+
+        <meta property="og:title" content="Finn McKinley">
+        <meta property="og:url" content="">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="Portfolio website for Finn McKinley">
 
         <style> /* Start of Style Tag */
             body {
