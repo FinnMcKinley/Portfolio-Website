@@ -3,16 +3,22 @@
     
     <!-- Head tag -->
     <head>
-        <!-- Base description and title -->
+        <!-- Title and charset -->
         <meta charset="utf-8">
         <title>Finn McKinley</title>
+        
+        <!-- Theme and style -->
+        <link rel="preload" href="style.css" as="style">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="#1c1c1c">
+        <meta name="color-scheme" content="light dark">
+        <link rel="stylesheet" href="style.css">
+
+        <!-- Base description -->
         <meta name="keywords" content="">
         <meta name="description" content="">
         <meta name="author" content="Finn McKinley">
         <meta name="hostname" content="">
-        <meta name="theme-color" content="#1c1c1c">
-        <meta name="color-scheme" content="light dark">
 
         <!-- Open graph protocol stuff -->
         <meta property="og:title" content="Finn McKinley">
@@ -28,21 +34,6 @@
         <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
 
-        <!-- CSS Style -->
-        <style>
-            body {
-                background-color: #1c1c1c;
-                margin: 0;
-            }
-
-            h1 {
-                color: #e6cfff;
-                size: 30%;
-                font-family: "Gill Sans", Verdana, sans-serif;
-                margin: 10px;
-            }
-        </style>
-        
     </head>
 
     <!-- Body tag -->
