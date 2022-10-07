@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
+    
+    <!-- Head tag -->
     <head>
         <!-- Base description and title -->
         <meta charset="utf-8">
@@ -8,12 +10,18 @@
         <meta name="keywords" content="">
         <meta name="description" content="">
         <meta name="author" content="Finn McKinley">
+        <meta name="hostname" content="">
+        <meta name="theme-color" content="#1c1c1c">
+        <meta name="color-scheme" content="light dark">
 
         <!-- Open graph protocol stuff -->
         <meta property="og:title" content="Finn McKinley">
         <meta property="og:url" content="">
         <meta property="og:type" content="website">
         <meta property="og:description" content="Portfolio website for Finn McKinley">
+        <meta property="og:image" content="favicon/android-chrome-512x512.png">
+        <meta property="og:image:alt" content="Finn McKinley profile website">
+        <meta property="og:site_name" content="Finn McKinley">
 
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
@@ -35,5 +43,10 @@
             }
         </style>
         
-    </head> <!-- End of head tag -->
+    </head>
+
+    <!-- Body tag -->
+    <body>
+        
+    </body>
 </html>
