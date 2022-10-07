@@ -1,7 +1,24 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Controls Scaling and Dimensions-->
+        <meta charset="utf-8">
+        <title>Finn McKinley</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Controls Scaling and Dimensions -->
+
+        <style> /* Start of Style Tag */
+            body {
+                background-color: #1c1c1c;
+                margin: 0;
+            }
+
+            h1 {
+                color: #e6cfff;
+                size: 30%;
+                font-family: "Gill Sans", Verdana, sans-serif;
+                margin: 10px;
+                
+            }
+        </style> <!-- End of Style Tag -->
         
-    </head>     <!-- End of Head Tag -->
+    </head> <!-- End of Head Tag -->
 </html>
